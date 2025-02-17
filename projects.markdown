@@ -79,7 +79,7 @@ permalink: /projects/
         <li>There are \((p-1)^2(p+1)(p)\) fractional linear functions without simplification. (using the orbit-stabilizer theorem)</li>
       <li>... and many more!</li></ul></p>
       <p>On one of the final days of the program, my group gave a presentation! Here are the <a href="/Fractional_Linear_Functions_slides.pdf">slides</a> to our presentation.</p>
-        <img src="images/promysflfgroup.jpg" width="403" height="302" alt="flfgroup">
+        <img src="/images/promysflfgroup.jpg" width="403" height="302" alt="flfgroup">
         </div>
         <div id = "writing">
           <h2>Writing</h2>

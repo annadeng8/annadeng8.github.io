@@ -7,7 +7,7 @@ permalink: /resume/
 # Anna Deng
 
 Fremont, California | [annadeng08@gmail.com](m:annadeng08@gmail.com)
-[annadeng8.github.io](https://annadeng8.github.io) | [linkedin.com/in/anna-deng-1bb3662b](https://linkedin.com/in/anna-deng-1bb3662b)
+[annadeng8.github.io](https://annadeng8.github.io) | [linkedin.com/in/anna-deng-](https://linkedin.com/in/anna-deng-)
 
 ## About Me
 
@@ -104,9 +104,7 @@ Hi, my name is Anna! I’m a high school junior from California who loves thinki
 - coordinate participation in modeling contests (e.g. HIMCM [(view paper)](/HiMCM_2024_Team_16209.pdf), MTFC)
 
 **Vice President & Treasurer** - [Silicon Valley Region Skating High School Team](https://siliconvalleyregionskating.com/) | Sep 2023 - Present
-- manage funds for nationally ranked high school figure skating team, organize webinars to promote skating
-    opportunities to the public
-- 1st place (individual free skate), 4th place (team overall) at 2024 National High School Skating Cyber Challenge
+- manage funds for nationally ranked high school figure skating team, organize webinars to promote skating opportunities to the public
 
 ## Figure Skating
 - passed pre-gold singles and pre-gold skating skills tests
