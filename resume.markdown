@@ -11,7 +11,11 @@ Fremont, California | [annadeng08@gmail.com](m:annadeng08@gmail.com)
 
 ## About Me
 
-Hi, my name is Anna! I’m a high school junior from California who loves thinking, learning, and giving back to my community. I am very interested in mathematics, computers, physics, and really anything to help with making the world a better place. In my free time, I enjoy reading, discovering, trying out new things, and talking. I have experience with Python, C++, HTML, machine learning, mathematical modeling, and advanced undergrad-level mathematics.
+Hi, my name is Anna! I’m a high school junior from California who loves thinking, learning, and giving back to my community. I am very interested in mathematics, computers, physics, and really anything to help with making the world a better place. I have experience with Python, C++, HTML, machine learning, mathematical modeling, and advanced undergrad-level mathematics. In college, I hope to major in applied mathematics and AI.
+
+## Research Interests
+- abstract algebra, number theory, applied mathematics, mathematical modeling
+- mechanistic interpretability, LLMs, deep learning, applied machine learning
 
 ## Education
 
@@ -28,16 +32,13 @@ Hi, my name is Anna! I’m a high school junior from California who loves thinki
 **Intern** - [MIT PRIMES](https://math.mit.edu/research/highschool/primes/) [CrowdMath Internship](https://artofproblemsolving.com/polymath/mitprimes2025) | Feb 2025 - Present
 - explore CrowdMath 2025 open problems while leveraging AI tools such as Large Language Models (LLMs) and
     interactive theorem provers
-- working towards providing the first taxonomy of classes of commutative rings/semirings based on the statement
-    of Goldbach’s conjecture using AI+math workflows with reusable AI enhancement techniques
+- working towards providing the first taxonomy of classes of commutative rings/semirings based on the statement of Goldbach’s conjecture using AI+math workflows with reusable AI enhancement techniques
 
 **Student Researcher** - [North Carolina Agricultural and Technical State University](https://www.ncat.edu/coe/departments/cs/index.php) | Feb 2025 - Present
-- researching violence detection from industrial surveillance videos using ensemble learning with Professor
-    Xiaohong Yuan and PhD student Hamza Khan
+- researching violence detection from industrial surveillance videos using ensemble learning with Professor Xiaohong Yuan and PhD student Hamza Khan
 
 **Student Researcher** - [Algoverse](https://algoverseairesearch.org) | Feb 2025 - Present
-- participating in AI Research program, learning and researching about large language models and mechanistic
-    interpretability
+- participating in AI Research program, learning and researching about large language models and mechanistic interpretability
 
 **Operations Lead** - [INTEGIRLS Bay Area](https://bayarea.integirls.org/) | Jul 2024 - Present
 - global nonprofit dedicated to supporting women in mathematics and bridging the gender gap in problem-solving
@@ -68,6 +69,7 @@ Hi, my name is Anna! I’m a high school junior from California who loves thinki
 - 4x [AIME](https://maa.org/maa-invitational-competitions/) qualifier, top 2.5% of AMC 10/12 participants, 7x AMC Distinction
 - 2x [Math Prize for Girls at MIT](https://mathprize.atfoundation.org/) Invitee, ranked 64th in top 300 girls nationwide
 - 2025 [European Girls Math Olympiad (EGMO)](https://www.egmo.org/) [Team Canada Selection Test](https://cms.math.ca/competitions/egmo/) Qualifier, ranked in top 11 girls in Canada
+- 2025 [Canadian Math Olympiad](https://cms.math.ca/competitions/cmo/) (CMO) Qualifier
 - 2x [Berkeley Math Tournament](https://berkeley.mt/) Distinguished Honorable Mention, 2024 [Stanford Math Tournament](https://www.stanfordmathtournament.com/) Team 3rd Place
 - 4x Berkeley Math Tournament Honorable Mention, 2x Stanford Math Tournament Honorable Mention
 - 2024 [Caltech Math Meet](https://www.caltechmathmeet.org/results) Team 15th Place
@@ -75,7 +77,8 @@ Hi, my name is Anna! I’m a high school junior from California who loves thinki
 - 2025 [Non-Trivial](https://www.non-trivial.org/) Research Foundations Fellow
 - 2024 [Euler Circle](https://eulercircle.com/) Student studying real analysis and point-set topology
 - 24-25 [Modeling the Future Challenge](https://www.mtfchallenge.org/) Semi-Finalist
-- 2024 [HiMCM](https://maa.org/maa-invitational-competitions/) Honorable Mention
+- 2024 [HiMCM](https://www.contest.comap.com/highschool/contests/himcm/instructions.html) Honorable Mention
+- 2025 [NCWIT Aspirations in Computing Bay Area](https://www.aspirations.org/people/anna-d/144133) Honorable Mention
 - 2x Pre-Gold [Figure Skating Medalist](https://www.usfigureskating.org/skate/test-structure)
 - BISV Student Ambassador and NHS member
 - [PVSA](https://presidentialserviceawards.gov/) Gold Award 2x, Bronze Award 2x
@@ -99,8 +102,7 @@ Hi, my name is Anna! I’m a high school junior from California who loves thinki
 - gave [TEDx Talk](https://www.youtube.com/watch?v=_UgkzdZAeXk) on mathematical problem-solving with 2k views
 
 **President & Founder** - BISV Mathematical Modeling Club | June 2024 - Present
-- planned club meetings, including discussions of math applied in the real world, data analysis techniques,
-    projects with MATLAB, etc.
+- planned club meetings, including discussions of math applied in the real world, data analysis techniques, projects with MATLAB, etc.
 - coordinate participation in modeling contests (e.g. HIMCM [(view paper)](/HiMCM_2024_Team_16209.pdf), MTFC)
 
 **Vice President & Treasurer** - [Silicon Valley Region Skating High School Team](https://siliconvalleyregionskating.com/) | Sep 2023 - Present

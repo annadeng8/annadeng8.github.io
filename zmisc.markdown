@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Miscellaneous
-permalink: /Misc/
+permalink: /misc/
 ---
 
 ## Links
@@ -13,7 +13,7 @@ permalink: /Misc/
 ## Reading
 - I have a [Goodreads profile](https://www.goodreads.com/user/show/144917204-anna)! Currently reading Russian literature.
 - Blogs: [CS blog by Christopher Olah](https://colah.github.io/), [math blog by Terrence Tao](https://terrytao.wordpress.com/), [The Batch by DeepLearning.AI](https://www.deeplearning.ai/the-batch/), [Quanta Magazine](https://www.quantamagazine.org/)
-- Math Book Recs: [Napkin by Evan Chen](https://web.evanchen.cc/napkin.html), [Linear Algebra Done Right by Sheldon Axler](https://linear.axler.net/)
+- Math Book Recs: [Napkin by Evan Chen](https://web.evanchen.cc/napkin.html), [Linear Algebra Done Right by Sheldon Axler](https://linear.axler.net/), [Algebra: Notes from the Underground](https://www.google.com/books/edition/Algebra/QVctEAAAQBAJ)
 - I also enjoy reading essays about social justice, perusing [JSTOR](https://www.jstor.org/) for cultural commentary, taking in advice wise people give (see [Paul Graham essays](https://www.paulgraham.com/articles.html)), flipping through Stephen King books, and imbibing classic literature.
 
 ## Pictures
