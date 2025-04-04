@@ -21,7 +21,7 @@ permalink: /misc/
 # People
 TEDxBISV 2025!
 
-<img src="/images/tedxbisv2025.jpg" alt="tedxbisv2025" width="500" class="center">
+<img src="/images/TEDxBISV2025.jpg" alt="tedxbisv2025" width="500" class="center">
 
 PROMYS 2024!
 
