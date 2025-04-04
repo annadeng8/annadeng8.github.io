@@ -30,7 +30,7 @@ Hi, my name is Anna! I’m a high school junior from California who loves thinki
 ## Experience
 
 **Intern** - [MIT PRIMES](https://math.mit.edu/research/highschool/primes/) [CrowdMath Internship](https://artofproblemsolving.com/polymath/mitprimes2025) | Feb 2025 - Present
-- explore CrowdMath 2025 open problems while leveraging AI tools such as Large Language Models (LLMs) and
+- explore CrowdMath 2025 open problems while leveraging AI tools such as Large Language Models and
     interactive theorem provers
 - working towards providing the first taxonomy of classes of commutative rings/semirings based on the statement of Goldbach’s conjecture using AI+math workflows with reusable AI enhancement techniques
 
@@ -39,8 +39,9 @@ Hi, my name is Anna! I’m a high school junior from California who loves thinki
 
 **Student Researcher** - [Algoverse](https://algoverseairesearch.org) | Feb 2025 - Present
 - participating in AI Research program, learning and researching about large language models and mechanistic interpretability
+- training semantic entropy probes on judge models to improve model response evaluation
 
-**Operations Lead** - [INTEGIRLS Bay Area](https://bayarea.integirls.org/) | Jul 2024 - Present
+**Operations Lead & Executive** - [INTEGIRLS Bay Area](https://bayarea.integirls.org/) | Jul 2024 - Present
 - global nonprofit dedicated to supporting women in mathematics and bridging the gender gap in problem-solving
 - oversee contest administration of free biannual math contests with 100+ participants all over the world
 - problem-writing for contests + problem of the month in monthly newsletters
@@ -78,7 +79,7 @@ Hi, my name is Anna! I’m a high school junior from California who loves thinki
 - 2024 [Euler Circle](https://eulercircle.com/) Student studying real analysis and point-set topology
 - 24-25 [Modeling the Future Challenge](https://www.mtfchallenge.org/) Semi-Finalist
 - 2024 [HiMCM](https://www.contest.comap.com/highschool/contests/himcm/instructions.html) Honorable Mention
-- 2025 [NCWIT Aspirations in Computing Bay Area](https://www.aspirations.org/people/anna-d/144133) Honorable Mention
+- 2025 NCWIT Aspirations in Computing Bay Area Honorable Mention
 - 2x Pre-Gold [Figure Skating Medalist](https://www.usfigureskating.org/skate/test-structure)
 - BISV Student Ambassador and NHS member
 - [PVSA](https://presidentialserviceawards.gov/) Gold Award 2x, Bronze Award 2x
@@ -98,15 +99,15 @@ Hi, my name is Anna! I’m a high school junior from California who loves thinki
 
 **President & TEDx Speaker** - BISV TED Talks Club | Sep 2022 - Present
 - planned events, including watching & discussing TED talks, guiding members through developing student talks
-- co-organized first annual TEDxBISV Youth event at school, student speaker, sold-out event with 100 attendees
-- gave [TEDx Talk](https://www.youtube.com/watch?v=_UgkzdZAeXk) on mathematical problem-solving with 2k views
+- co-organized [first](https://www.ted.com/tedx/events/56028) and [second](https://www.ted.com/tedx/events/62095) annual TEDxBISV Youth event at school, student speaker, sold-out event with 100 attendees
+- gave [TEDx Talk](https://www.youtube.com/watch?v=_UgkzdZAeXk) on mathematical problem-solving with 2k views, gave another one on the power of counterexamples
 
 **President & Founder** - BISV Mathematical Modeling Club | June 2024 - Present
 - planned club meetings, including discussions of math applied in the real world, data analysis techniques, projects with MATLAB, etc.
 - coordinate participation in modeling contests (e.g. HIMCM [(view paper)](/HiMCM_2024_Team_16209.pdf), MTFC)
 
 **Vice President & Treasurer** - [Silicon Valley Region Skating High School Team](https://siliconvalleyregionskating.com/) | Sep 2023 - Present
-- manage funds for nationally ranked high school figure skating team, organize webinars to promote skating opportunities to the public
+- manage funds for nationally ranked high school figure skating team, organize webinars and events to promote skating opportunities to the public
 
 ## Figure Skating
 - passed pre-gold singles and pre-gold skating skills tests
@@ -114,9 +115,10 @@ Hi, my name is Anna! I’m a high school junior from California who loves thinki
     - 1st place at Rising Stars, Gold Rush, Spring Preview, Crystalline Classic Regional Competitions (showcase)
 - ranked 14th sectionally, 58th nationally in 2024 Excel Series
     - 3rd place at Gold Rush Regional Competition
-- 1st place (individual artistic free skate), 2nd place (team maneuvers), 4th place (team overall) at 2024 National High School Skating Cyber Challenge
+- 1st place (individual artistic free skate), 2nd place (team maneuvers), 4th place (team overall), Dorothy Tank team spirit award at 2024 National High School Skating Cyber Challenge
+- 3rd place (team overall) at 2025 National High School Skating Cyber Challenge
 - 22-24 Member of award-winning San Francisco Ice Theatre team
-    - top 10 at 2023 Nation’s Cup, international theatre on ice competition (team)
+    - top 10 at 2023 Nation’s Cup, international theatre on ice competition (team, part of Team USA)
     - 5th place at 2023 National Theatre On Ice competition (team)
 
 
