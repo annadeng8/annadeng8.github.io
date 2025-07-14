@@ -31,6 +31,7 @@ permalink: /projects/
         <p>However SHAP’s main vulnerability is adversarial perturbation, which is when an agent manipulates input features, makes minor adjustments or introduces random noise to change feature importance or SHAP values significantly. Thus, SHAP should be robust, that is the feature importance or SHAP values should remain the same even after minor perturbations and introduction of random noise. SHAP has been found to be robust in precision medicine, especially for simpler models. However, there is a gap in evaluating SHAP in the judicial sector and more complex models.</p>
 
         <p>In this project we aim to evaluate the robustness of SHAP in more complex models in the judicial sector, using publicly available judicial models. We compare the SHAP Values of a control set of normal inputs against the SHAP Values of a set of perturbed inputs (simulating gradient based adversarial attacks with FGSM) or inputs with added noise.</p>
+        <p>Here is the <a href="https://github.com/annadeng8/ljp-interp">GitHub Repo</a>.</p>
         </div>
         <div id="cmi">
         <h2>MIT PRIMES CrowdMath Internship</h2>
@@ -120,7 +121,7 @@ permalink: /projects/
           <h2>Writing and Speaking</h2>
           <ul>
             <li><a href="https://monotonicallyincreasing.substack.com/">my Substack titled "monotonically increasing"!</a></li>
-            <li><a href="https://docs.google.com/document/d/1n5SVqRir0UUVJlrhlvEdeDY7O-P-QDG2w9mNPa-8Dlk/edit?usp=sharing">Why Worry about Women in STEM?</a> - a piece of writing I submitted to the Scholastic Awards in the Personal Essay category</li>
+            <li><a href="https://docs.google.com/document/d/1n5SVqRir0UUVJlrhlvEdeDY7O-P-QDG2w9mNPa-8Dlk/edit?usp=sharing">Why Worry about Women in STEM?</a> - a piece of writing I submitted to the Scholastic Awards in the Personal Essay category that won a regional Honorable Mention.</li>
             <li><a href="https://docs.google.com/document/d/1s6F3JxUsh7-y5vW0tYk4lEVLQKezd_hYe7GCYQbxAO8/edit?tab=t.0">a TED Talk about my TED Talk</a></li>
             <li><a href="https://www.canva.com/design/DAGUDu5QWvU/ZogfmfpAo613fmtiMHs0TA/view?utm_content=DAGUDu5QWvU">A.I.M. for Education - proposed artificial intelligence framework in schools</a></li>
             <li><a href="https://docs.google.com/document/d/1SvLWCOyNso-uoijYUL1kx_VNICNSiolSJY_r8D9YOJE/edit?usp=sharing">TED Talk Script 2024</a>: delivered on May 3, 2024 <a href="https://www.youtube.com/watch?v=_UgkzdZAeXk">here</a></li>
@@ -128,4 +129,3 @@ permalink: /projects/
             </ul>
             <br>
         </div>
-</html>
