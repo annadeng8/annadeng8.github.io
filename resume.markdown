@@ -3,7 +3,7 @@ layout: page
 title: Resume
 permalink: /resume/
 ---
-(To view a PDF 2-page version of this page, click [here](Resume.pdf))
+(To view a PDF 3-page version of this page, click [here](Resume.pdf))
 # Anna Deng
 
 Fremont, California | [annadeng08@gmail.com](m:annadeng08@gmail.com)
