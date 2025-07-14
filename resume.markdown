@@ -19,15 +19,26 @@ Hi, my name is Anna! I’m a high school junior from California who loves thinki
 
 ## Education
 
-**BASIS Independent Silicon Valley - 11th Grade** | Aug 2022 - May 2026
+**BASIS Independent Silicon Valley - Grade 12** | Aug 2022 - May 2026
 
 - GPA: 4.00 unweighted, 4.80 weighted
 - SAT: 1570 (800M 770R), PSAT: 1500 (760M 740R)
 - **Relevant Coursework:**
-    - STEM: AP Physics 1 (5), AP Physics 2 (5), AP Physics C, AP Computer Science A (5), AP Calculus AB (5), AP Calculus BC, AP Statistics, Honors Chemistry, Honors Biology
-    - Humanities: AP U.S. Government and Politics (5), AP Macroeconomics (5), AP Microeconomics (5), AP U.S. History (5), AP English Language & Composition (5), AP English Literature & Composition, AP World History, AP Mandarin
+    - STEM:  STEM: Multivariable Calculus, Linear Algebra, Differential Equations, Modern Physics, AP Physics 1 (5), AP Physics 2 (5), AP Physics C: Electricty & Magnetism (5), AP Physics C: Mechanics (5), AP Computer Science A (5), AP Calculus AB (5), AP Calculus BC (5), AP Statistics (5), Honors Chemistry, Honors Biology
+    - Humanities: Humanities: Multiversal Fiction, Existentialism & the Absurd, AP U.S. Government and Politics (5), AP Macroeconomics (5), AP Microeconomics (5), AP U.S. History (5), AP English Language & Composition (5), AP English Literature & Composition (5), AP World History: Modern (5), AP Chinese Language and Culture (5)
 
 ## Experience
+**Tech Director** - [INTEGIRLS](https://www.integirls.org/) | Jun 2025 - Present
+- global nonprofit bridging the gap in problem-solving, hosting dozens of contests through 30+ global chapters, reaching 8k+ students and 62 countries, efforts featured in various news outlets
+- oversee and maintain technical operations that support internal and external communications for INTEGIRLS
+
+**Intern** - [Aspiring Scientists Summer Internship Program (ASSIP)](https://science.gmu.edu/assip) | Jun 2025 - Present
+- geoinformatics researcher under George Mason University
+- predicting the risk score for one region to air quality-related cancers using remote sensing
+
+**Researcher** - [Non-Trivial Research Fellow](https://www.non-trivial.org/programs/research-fellows) | Feb 2025 - Present
+- selected as a Research Fellow and received a $2,000 scholarship (0.7% acceptance rate, 1 of 50)
+- conducting research on post-hoc interpretability for legal prediction models and fractal analysis in mechanistic interpretability 
 
 **Intern** - [MIT PRIMES](https://math.mit.edu/research/highschool/primes/) [CrowdMath Internship](https://artofproblemsolving.com/polymath/mitprimes2025) | Feb 2025 - Present
 - explore CrowdMath 2025 open problems while leveraging AI tools such as Large Language Models and
@@ -41,7 +52,7 @@ Hi, my name is Anna! I’m a high school junior from California who loves thinki
 - participating in AI Research program, learning and researching about large language models and mechanistic interpretability
 - training semantic entropy probes on judge models to improve model response evaluation
 
-**Operations Lead & Executive** - [INTEGIRLS Bay Area](https://bayarea.integirls.org/) | Jul 2024 - Present
+**Chapter Head and President** - [INTEGIRLS Bay Area](https://bayarea.integirls.org/) | Jul 2024 - Present
 - global nonprofit dedicated to supporting women in mathematics and bridging the gender gap in problem-solving
 - oversee contest administration of free biannual math contests with 100+ participants all over the world
 - problem-writing for contests + problem of the month in monthly newsletters
@@ -68,15 +79,18 @@ Hi, my name is Anna! I’m a high school junior from California who loves thinki
 ## Awards & Honors
 
 - 4x [AIME](https://maa.org/maa-invitational-competitions/) qualifier, top 2.5% of AMC 10/12 participants, 7x AMC Distinction
-- 2x [Math Prize for Girls at MIT](https://mathprize.atfoundation.org/) Invitee, ranked 64th in top 300 girls nationwide
+- 3x [Math Prize for Girls at MIT](https://mathprize.atfoundation.org/) Invitee, ranked 64th in top 300 girls nationwide
+- 2025 [Canada IMO Training Camp](https://www.birs.ca/events/2025/summer-schools/25ss005) Participant, top 16 Canadian students
 - 2025 [European Girls Math Olympiad (EGMO)](https://www.egmo.org/) [Team Canada Selection Test](https://cms.math.ca/competitions/egmo/) Qualifier, ranked in top 11 girls in Canada
 - 2025 [Canadian Math Olympiad](https://cms.math.ca/competitions/cmo/) (CMO) Qualifier
-- 2x [Berkeley Math Tournament](https://berkeley.mt/) Distinguished Honorable Mention, 2024 [Stanford Math Tournament](https://www.stanfordmathtournament.com/) Team 3rd Place
+- 2x [Berkeley Math Tournament](https://berkeley.mt/) Distinguished Honorable Mention, 2x [Stanford Math Tournament](https://www.stanfordmathtournament.com/) Distinguished Honorable Mention
+- 2024 Stanford Math Tournament Team Overall 3rd Place, 2025 Stanford Math Tournament Team Overall 4th Place
 - 4x Berkeley Math Tournament Honorable Mention, 2x Stanford Math Tournament Honorable Mention
 - 2024 [Caltech Math Meet](https://www.caltechmathmeet.org/results) Team 15th Place
 - 2023 [G2 Math Program](https://www.g2mathprogram.org/) Participant at CMU, top 50 girls nationwide
-- 2025 [Non-Trivial](https://www.non-trivial.org/) Research Foundations Fellow
+- 2025 [Non-Trivial](https://www.non-trivial.org/) Research Fellow
 - 2024 [Euler Circle](https://eulercircle.com/) Student studying real analysis and point-set topology
+- 2025 Euler Circle Student studying differential geometry
 - 24-25 [Modeling the Future Challenge](https://www.mtfchallenge.org/) Semi-Finalist
 - 2024 [HiMCM](https://www.contest.comap.com/highschool/contests/himcm/instructions.html) Honorable Mention
 - 2025 NCWIT Aspirations in Computing Bay Area Honorable Mention

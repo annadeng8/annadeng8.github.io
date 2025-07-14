@@ -19,6 +19,10 @@ permalink: /misc/
 ## Pictures
 
 # People
+Canada IMO Summer Training Camp 2025!
+
+<img src="/images/imotraining25.jpg" alt="imotraining25" width="500" class="center">
+
 TEDxBISV 2025!
 
 <img src="/images/TEDxBISV2025.jpg" alt="tedxbisv2025" width="500" class="center">
@@ -47,4 +51,4 @@ Here are some photos of the outdoor cats I feed!
     - ones that I'm involved with / been a part of: [INTEGIRLS](https://www.integirls.org/), [Athemath](https://athemath.org/), [Math Prize for Girls](https://mathprize.atfoundation.org/)
     - others I've heard about: [Math and AI 4 Girls](https://www.mathandai4girls.org/), [Lovelace Math Circle](https://www.lovelacemath.org/home)
 - General Math Contest resources: [Art of Problem Solving](https://aops.com/), [Evan Chen](https://web.evanchen.cc/)
-- Music (here's my [Spotify](https://open.spotify.com/user/xj85ob0h9cj7vt05dff8bz4d4)): mostly just k-pop, Taylor Swift, and [Flocus](https://www.flocus.com/)
+- Music (here's my [Spotify](https://open.spotify.com/user/xj85ob0h9cj7vt05dff8bz4d4)): mostly just k-pop, Taylor Swift, regular pop, classical, and [Flocus](https://www.flocus.com/)
